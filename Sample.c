@@ -1,9 +1,9 @@
 main()
 {
-  int i,j, sum;
+  int i,j, sub;
   i=2, j=4;
-  sum=i+j;
-  printf("The sum of 2 no's is : %d", sum);
-  printf("This is the program to add two numbers");
+  sum=i-j;
+  printf("The sub of 2 no's is : %d", sub);
+  printf("This is the program to sub two numbers");
   getch();
 }
